@@ -13,3 +13,9 @@ Opinion words are also known as polarity words,sentiment words,opinion lexicon o
 
 1. Positive words - wonderful,elegant,astonishing 
 2. Negative words - Horrible, disgusting,poor etc
+
+
+
+##### Deployment Link (Live)
+
+https://sentiment-analysis-live-demo.streamlit.app/
